@@ -32,11 +32,11 @@ Click anywhere else on the panel to open the editor for that module.
 
 ![Image of Edit Page](Editor_Beta_1.jpg)
 
-Patch Save / Load         (Far Left)
-Morph Control             (Second Column Top)
-Module Storage Controls     (Second Column)
-Parameter Editing         (Middle Section)
-Control Bar             (Bottom section)
+- Patch Save / Load         (Far Left)
+- Morph Control             (Second Column Top)
+- Module Storage Controls     (Second Column)
+- Parameter Editing         (Middle Section)
+- Control Bar             (Bottom section)
 
 ## Morph Control
 
