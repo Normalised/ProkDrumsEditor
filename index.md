@@ -1,5 +1,3 @@
-# Prok Drums Editor
-
 [Mac Beta](https://github.com/Normalised/ProkDrumsEditor/releases/download/v0.1-beta.1/ProkModularEditor_Mac_Beta1.zip)
 
 [Windows Beta](https://github.com/Normalised/ProkDrumsEditor/releases/download/v0.1-beta.1/ProkModularEditor_Win_Beta1.zip)
