@@ -1,9 +1,15 @@
-[Mac Beta](https://github.com/Normalised/ProkDrumsEditor/releases/download/v0.1-beta.1/ProkModularEditor_Mac_Beta1.zip)
+[Mac Beta](https://github.com/Normalised/ProkDrumsEditor/releases/download/v0.1-beta.2/ProkModularEditor_Mac_Beta2.zip)
 
-[Windows Beta](https://github.com/Normalised/ProkDrumsEditor/releases/download/v0.1-beta.1/ProkModularEditor_Win_Beta1.zip)
+[Windows Beta](https://github.com/Normalised/ProkDrumsEditor/releases/download/v0.1-beta.2/ProkModularEditor_Win_Beta2.zip)
+
+[JAR_Only_Beta](https://github.com/Normalised/ProkDrumsEditor/releases/download/v0.1-beta.2/ProkModularEditor_JarOnly_Beta2.zip)
 
 Release Notes
 -------------
+
+0.1.Beta.2
+
+Fixed SD Card detection
 
 0.1.Beta.1
 
