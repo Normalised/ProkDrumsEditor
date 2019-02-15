@@ -1,8 +1,3 @@
-[Mac Beta](https://github.com/Normalised/ProkDrumsEditor/releases/download/v0.1-beta.2/ProkModularEditor_Mac_Beta2.zip)
-
-[Windows Beta](https://github.com/Normalised/ProkDrumsEditor/releases/download/v0.1-beta.2/ProkModularEditor_Win_Beta2.zip)
-
-[JAR_Only_Beta](https://github.com/Normalised/ProkDrumsEditor/releases/download/v0.1-beta.2/ProkModularEditor_JarOnly_Beta2.zip)
 
 Release Notes
 -------------
