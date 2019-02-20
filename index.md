@@ -1,4 +1,4 @@
-Please report bugs, crashes and feature requests as a new 'issue' here - https://github.com/Normalised/ProkDrumsEditor/issues
+Please report bugs, crashes and feature requests as a new 'issue' [here](https://github.com/Normalised/ProkDrumsEditor/issues) - https://github.com/Normalised/ProkDrumsEditor/issues
 
 Prok Modular Drum Editor 
 ------------------------
