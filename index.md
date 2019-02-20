@@ -1,11 +1,13 @@
 Please report bugs, crashes and feature requests as a new 'issue' here - https://github.com/Normalised/ProkDrumsEditor/issues
 
+Prok Modular Drum Editor 
+------------------------
 
-[Mac Beta](https://github.com/Normalised/ProkDrumsEditor/releases/download/v0.1-beta.2/ProkModularEditor_Mac_Beta2.zip)
+DOWNLOAD EDITOR - [Mac Beta](https://github.com/Normalised/ProkDrumsEditor/releases/download/v0.1-beta.2/ProkModularEditor_Mac_Beta2.zip)
 
-[Windows Beta](https://github.com/Normalised/ProkDrumsEditor/releases/download/v0.1-beta.2/ProkModularEditor_Win_Beta2.zip)
+DOWNLOAD EDITOR - [Windows Beta](https://github.com/Normalised/ProkDrumsEditor/releases/download/v0.1-beta.2/ProkModularEditor_Win_Beta2.zip)
 
-[JAR_Only_Beta](https://github.com/Normalised/ProkDrumsEditor/releases/download/v0.1-beta.2/ProkModularEditor_JarOnly_Beta2.zip)
+DOWNLOAD EDITOR - [JAR_Only_Beta](https://github.com/Normalised/ProkDrumsEditor/releases/download/v0.1-beta.2/ProkModularEditor_JarOnly_Beta2.zip)
 
 Release Notes
 -------------
