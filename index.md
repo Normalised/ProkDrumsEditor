@@ -1,3 +1,6 @@
+Please report bugs, crashes and feature requests as a new 'issue' here - https://github.com/Normalised/ProkDrumsEditor/issues
+
+
 [Mac Beta](https://github.com/Normalised/ProkDrumsEditor/releases/download/v0.1-beta.2/ProkModularEditor_Mac_Beta2.zip)
 
 [Windows Beta](https://github.com/Normalised/ProkDrumsEditor/releases/download/v0.1-beta.2/ProkModularEditor_Win_Beta2.zip)
@@ -91,3 +94,4 @@ Click save preset to store the current parameters as a preset. You can type a na
 
 NOTE : All drum types use .prk files but they can only be loaded into the correct module.
 
+Please report bugs, crashes and feature requests as a new 'issue' here - https://github.com/Normalised/ProkDrumsEditor/issues
