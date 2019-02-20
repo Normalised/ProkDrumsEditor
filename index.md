@@ -1,4 +1,4 @@
-Please report bugs, crashes and feature requests as a new 'issue' [here](https://github.com/Normalised/ProkDrumsEditor/issues) - https://github.com/Normalised/ProkDrumsEditor/issues
+Please report bugs, crashes and feature requests as a new 'issue' [HERE](https://github.com/Normalised/ProkDrumsEditor/issues)
 
 Prok Modular Drum Editor 
 ------------------------
@@ -22,6 +22,8 @@ Initial beta release.
 
 Guide
 -----
+
+Please report bugs, crashes and feature requests as a new 'issue' [HERE](https://github.com/Normalised/ProkDrumsEditor/issues)
 
 First connect the module to your computer via USB then launch the editor application.
 
@@ -96,4 +98,4 @@ Click save preset to store the current parameters as a preset. You can type a na
 
 NOTE : All drum types use .prk files but they can only be loaded into the correct module.
 
-Please report bugs, crashes and feature requests as a new 'issue' here - https://github.com/Normalised/ProkDrumsEditor/issues
+Please report bugs, crashes and feature requests as a new 'issue' [HERE](https://github.com/Normalised/ProkDrumsEditor/issues)
