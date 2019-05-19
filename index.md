@@ -25,7 +25,10 @@ Guide
 
 Please report bugs, crashes and feature requests as a new 'issue' [HERE](https://github.com/Normalised/ProkDrumsEditor/issues)
 
-First connect the module to your computer via USB then launch the editor application.
+First connect the module to your computer via USB then launch the editor application. 
+
+If you are a Windows 7 User you may need to [install this driver](https://www.pjrc.com/teensy/serial_install.exe) . See [here](https://www.pjrc.com/teensy/troubleshoot.html) for more details.
+
 
 When the editor connects to the module you will see the module select screen.
 
